@@ -4,7 +4,7 @@
 
 
 
-![capture](G:\AndroidProject\android-snake-menu\Snake-Menu\assets\capture.gif)
+![capture](./assets/capture.gif)
 
 
 
